@@ -1,5 +1,39 @@
 [
   {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1786970664.496588,
+    "completed_at": 1786970666.304593,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1786972583.069689,
+    "completed_at": 1786972586.125361,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1786970473.090287,
+    "completed_at": 1786970474.680107,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1786972828.755029,
+    "completed_at": 1786972830.957476,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "under-control",
     "started_at": 1786942437.110623,
     "completed_at": 1786942440.178649,
@@ -18,37 +52,12 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "stage-fright",
-    "started_at": 1786970473.090287,
-    "completed_at": 1786970474.680107,
+    "exercise_name": "remote-control",
+    "started_at": 1787223591.425942,
+    "completed_at": 1787223783.383595,
     "comments": [
-      "Great work! You have successfully checked in all the actors!"
+      "That is not the right Github url!"
     ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "grocery-shopping",
-    "started_at": 1786970664.496588,
-    "completed_at": 1786970666.304593,
-    "comments": [
-      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "log-and-order",
-    "started_at": 1786972583.069689,
-    "completed_at": 1786972586.125361,
-    "comments": [],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "staging-intervention",
-    "started_at": 1786972828.755029,
-    "completed_at": 1786972830.957476,
-    "comments": [
-      "Great work! You have successfully fixed the attendance system!"
-    ],
-    "status": "Completed"
+    "status": "Incomplete"
   }
 ]
